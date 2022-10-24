@@ -10,7 +10,7 @@ body {
   background-color: white;
   color: black;
   max-width: 425px;
-  min-height: 100vh;
+  min-height: 100%;
   font-family: 'Arial Black', Helvetica, sans-serif;
   box-sizing: border-box;
   position: relative;
@@ -59,10 +59,11 @@ body {
 }
 
 .image {
+  display: block;
   margin: 0;
   padding: 0;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
   max-width: 425px;
   object-fit: cover;
   transition-duration: .5s;
