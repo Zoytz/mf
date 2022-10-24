@@ -38,26 +38,6 @@ body {
   padding: 5px 15px;
 }
 
-.button:hover {
-  opacity: 0.8;
-}
-
-.button:active:after {
-  right:-100%;
-  transition: .16s;
-}
-
-.button:after {
-  content: '';
-  width:50%;
-  height: 100%;
-  background-color:red;
-  position: absolute;
-  top:0;
-  right:110%;
-  transform:skewX(30deg);
-}
-
 .image {
   display: block;
   margin: 0;
