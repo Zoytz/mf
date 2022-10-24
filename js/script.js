@@ -23,7 +23,6 @@ let images = [
   'https://i.pinimg.com/736x/32/6b/b4/326bb4fa1fb67e31dc6e9c8cf2c5af0e--pink-blossom-cherry-blossoms.jpg',
   'https://i.pinimg.com/originals/f9/71/87/f97187b5d18fb777adb21c1d56873f7f.jpg',
   'https://i.pinimg.com/736x/7e/3f/11/7e3f1199d87ae9ea0da304f5721d1289.jpg',
-  'https://m.sprashivalka.com/user_media/3e0/ba0/b7c/63c7b.jpg',
   'https://i.pinimg.com/originals/88/13/f7/8813f7cad0321cbcf762f21bf8b05851.jpg',
   'https://i.pinimg.com/originals/bf/ec/c9/bfecc961aac82b8f067b180f32a4da2f.jpg',
   'https://i.pinimg.com/originals/94/21/b8/9421b8bcb1627a3764b9f3061f2c3096.jpg',
