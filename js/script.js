@@ -11,6 +11,7 @@ let images = [
   './img/10.jpg',
   './img/11.jpg',
   './img/12.jpg',
+  './img/13.jpg',
   './img/14.jpg',
   './img/15.jpg',
   './img/16.jpg',
@@ -23,6 +24,7 @@ let images = [
   './img/23.jpg',
   './img/24.jpg',
   './img/25.jpg',
+  './img/26.jpg',
   './img/27.jpg',
   './img/28.jpg',
   './img/29.jpg',
@@ -35,6 +37,7 @@ let images = [
   './img/36.jpg',
   './img/37.jpg',
   './img/38.jpg',
+  './img/39.jpg',
   './img/40.jpg',
   './img/41.jpg',
   './img/42.jpg',
@@ -46,6 +49,7 @@ let images = [
   './img/48.jpg',
   './img/49.jpg',
   './img/50.jpg',
+  './img/51.jpg'
 ];
 
 function getRandomElement(arr) {
